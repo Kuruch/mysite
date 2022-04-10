@@ -1,0 +1,43 @@
+h1{
+  color:#00FF00;.
+    font-size:128pt;
+}
+body{
+  background-color:black;
+background-image:
+url("https://newcdn.mowplayer.com/719567640886/2020/10/29/thumbnails/ggiljnpk1gnj54rx.jpg");
+  background-size: cover;
+  background-position: 1920px 5px:
+  background-repeat;
+}
+h3 {
+ margin: auto;
+}
+div {
+ margin-top: px;
+ text-align: center;
+}
+#header{
+ height: px;
+}
+#container {
+ width: auto;
+}
+
+#navigation {
+ height: 190px;
+}
+#content {
+ float: left;
+ width: 75%;
+ height: 490px;
+}
+#sidebar {
+ float: right;
+ width: 25%;
+  height: px;
+}
+#clear {
+ clear: both;
+ width: auto;
+}
